@@ -13,8 +13,8 @@ export function Layout({ children }) {
         <main>{children}</main>
         <footer className="text-lg font-light">
           © {new Date().getFullYear()}, Built with{" "}
-          <a href="https://nextjs.org/">Next.js</a>
-          &#128293;
+          <a href="https://https://github.com/dhdh3311/">doomdoom</a>
+          {" "}😎
         </footer>
       </div>
     </div>
@@ -69,7 +69,8 @@ const LargeTitle = () => (
           "dark:text-white"
         )}
       >
-        Next.Js Starter Blog
+        <div style={{whiteSpace: "pre-wrap"}}>{"doomdoom's \nDev TIL"}</div>      
+        
       </a>
     </Link>
   </h1>
@@ -79,12 +80,13 @@ const SmallTitle = () => (
   <h1>
     <Link href="/">
       <a
+        style={{whiteSpace: "pre-wrap"}}
         className={clsx(
           "text-2xl font-black text-black no-underline font-display",
           "dark:text-white"
         )}
       >
-        Next.Js Starter Blog
+        <div style={{whiteSpace: "pre-wrap"}}>{"doomdoom's Dev Blog"}</div>      
       </a>
     </Link>
   </h1>
