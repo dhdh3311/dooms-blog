@@ -14,7 +14,7 @@ export function Layout({ children }) {
         <footer className="text-lg font-light">
           © {new Date().getFullYear()}, Built with{" "}
           <a href="https://https://github.com/dhdh3311/">doomdoom</a>
-          {" "}😎
+          😎
         </footer>
       </div>
     </div>
@@ -69,7 +69,7 @@ const LargeTitle = () => (
           "dark:text-white"
         )}
       >
-        <div style={{whiteSpace: "pre-wrap"}}>{"doomdoom's \nDev TIL"}</div>      
+        <div style={{whiteSpace: "pre-wrap"}}>{"doomdoom's Tech Blog"}</div>      
         
       </a>
     </Link>
