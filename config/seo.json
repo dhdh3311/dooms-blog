@@ -1,15 +1,15 @@
 {
   "siteMetadata": {
-    "title": "Next.js Starter Blog",
+    "title": "doomdoom's Dev Blog",
     "author": {
-      "name": "Jose Felix",
-      "summary": "who works building clean user interfaces with React."
+      "name": "doomdoom",
+      "summary": "안녕하세요 🙋🏻‍♀️ 음악을 좋아하는 Front-end 개발자 doomdoom 입니다.\n이름은 귀여운 순수 한글 의성어랍니다 🌟"
     },
     "description": "A blog created with Next.js and Tailwind.css",
-    "siteUrl": "https://nextjs-starter-blog-demo.netlify.app/",
-    "language": "en-US",
+    "siteUrl": "https://dooms-blog.vercel.app/",
+    "language": "ko",
     "social": {
-      "twitter": "Jose_R_Felix"
+      "twitter": "doomydoomydooms"
     }
   }
 }

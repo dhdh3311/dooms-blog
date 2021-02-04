@@ -116,7 +116,7 @@ module.exports = {
     },
     fontFamily: {
       display: ["Open Sans", ...defaultSans],
-      body: ["Merriweather", ...defaultSerif],
+      body: ["Noto Sans", ...defaultSans],
     },
   },
   variants: {},
